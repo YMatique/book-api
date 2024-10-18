@@ -1,18 +1,17 @@
 # book-api
  Simple api to test applications and tecnologies
 
-# Programming languages
+## Programming languages
     TypeScript
 
-# Framework
+## Framework
     Expressjs
     
-# ORM
+## ORM
     Prisma ORM
 
-# Database
+## Database
     MySQL Database
 
-# Development Pattern
+## Development Pattern
     MVC - Model View Controller
-
