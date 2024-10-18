@@ -54,6 +54,7 @@ export class BookController{
             const book = await bookService.createBook(req.body);
             res.status(201).json(book);
         } catch (error) {
+            console.log(error);
             res.status(500).json(error);
         }
     }
