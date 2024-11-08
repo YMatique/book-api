@@ -5,7 +5,7 @@
     TypeScript
 
 ## Framework
-    Expressjs
+    Express.js
     
 ## ORM
     Prisma ORM
